@@ -1,7 +1,7 @@
 # Winnie the pooh
 + A short children's story  
-_this is italicized text_
-__this text is BOLD__
++ _this is italicized text_
++ __this text is BOLD__
 <u>This will be underlined<u>
 [Click here to visit the website which I found this story in](https://bedtimeshortstories.com/winnie-the-pooh-story)
 ![logo](<img width="1961" height="1426" alt="The-Winnie-the-Pooh-Story" src="https://github.com/user-attachments/assets/3481afb1-5076-44f2-8616-08b434909760" />)
