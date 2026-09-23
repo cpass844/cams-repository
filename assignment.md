@@ -4,7 +4,7 @@
 + __this text is BOLD__
 + underline
 + [Click here to visit the website which I found this story in](https://bedtimeshortstories.com/winnie-the-pooh-story)
-+ ![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bb58e7f-cd20-441b-82e4-b018b841c871/dld0pdb-081f9982-1bac-4cea-96b4-8f8ea9085787.png)
++ <img width="1920" height="1107" alt="Winnie the pooh" src="https://github.com/user-attachments/assets/d93c0cb2-3884-4a45-b41d-bc5ad7593c13" />
 + Below is a line break<br><br><br>Above is a line break
 
 
