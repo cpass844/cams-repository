@@ -2,7 +2,7 @@
 + A short children's story  
 + _this is italicized text_
 + __this text is BOLD__
-+ underline
+<p><u>underlined</u></p>
 + [Click here to visit the website which I found this story in](https://bedtimeshortstories.com/winnie-the-pooh-story)
 + <img width="1920" height="1107" alt="Winnie the pooh" src="https://github.com/user-attachments/assets/d93c0cb2-3884-4a45-b41d-bc5ad7593c13" />
 + Below is a line break<br><br><br>Above is a line break
